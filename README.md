@@ -33,7 +33,7 @@ newgrp docker
 sudo chmod 777 /var/run/docker.sock
 
 
-3: Security
+3. Security
 
 Install SonarQube and Trivy:
 Install SonarQube and Trivy on the EC2 instance to scan for vulnerabilities.
